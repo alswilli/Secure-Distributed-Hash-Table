@@ -1,1 +1,1 @@
-# Distributed-Hash-Table-Security
+# Secure-Distributed-Hash-Table
